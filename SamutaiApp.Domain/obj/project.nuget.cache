@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhdplhO0fZPrB6T7XxYFF2bco8g0geFITDO/c1nYxcEMN6U3jNDXD+2cj2Q1RS9lySGwDRgSeASm79pTBGyuEw==",
+  "success": true,
+  "projectFilePath": "C:\\Demos\\SamuraiAPI\\SamutaiApp.Domain\\SamutaiApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barna\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.6\\microsoft.entityframeworkcore.analyzers.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
